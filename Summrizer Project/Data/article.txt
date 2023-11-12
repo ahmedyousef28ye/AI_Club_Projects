@@ -1,0 +1,9 @@
+Have you ever wished you could be one of those professional Photoshop designers who could distort images and turn them into something different? Or perhaps, the simple editing apps and pre-built application filters are not satisfactory enough for your sense of creativity? DragGAN is just the tool for you.
+Drag your GAN (Generative Adversarial Network) is an Artificial Intelligence tool developed by researchers from renowned institutions including the Planck Institute for Computer Science, MIT, and Google.
+
+DragGAN allows users to manipulate images in various shapes and sizes, change expressions, and more in a highly precise manner as well as with an incredibly prominent level of control. It makes use of GANs which are deep learning models that produce new data instances resembling the data used while training the model. In the case of DragGAN, the instances are the images produced.
+
+Furthermore, DragGAN’s user-interactive point-based method enables dragging points of images according to the users’ desired target, guaranteeing the utmost precision, flexibility, and an easy-to-use experience. Overall, it is a superb tool with powerful editing capabilities available for use by anyone!
+
+Let your imagination run wild with endless possibilities of creating images from scratch and editing preexisting images for all sorts of purposes. With DragGAN, you can be your own designer without years of design skills and with only a few simple mouse clicks across your screen. Visualize away, as the cursor is your limit!
+
