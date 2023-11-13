@@ -6,6 +6,10 @@ import streamlit as st
 from dotenv import load_dotenv #to resd the key
 load_dotenv()
 openai.api_key=os.getenv("API_key")
+headers ={
+        "authorization":st.secrets["auth_token"],
+        "content-type":"application/json"
+    }
 
 
 
