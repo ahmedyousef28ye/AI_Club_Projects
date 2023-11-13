@@ -6,7 +6,7 @@ import streamlit as st
 from dotenv import load_dotenv #to resd the key
 load_dotenv()
 
-os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
+os.environ['API_key'] = st.secrets['API_key']
 
 
 
