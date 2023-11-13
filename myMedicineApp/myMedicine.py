@@ -5,7 +5,9 @@ import streamlit as st
 
 from dotenv import load_dotenv #to resd the key
 load_dotenv()
-openai.api_key=st.secrets["auth_key"]
+openai.api_key=os.getenv("API_key")
+
+openai.api_key=st.secrets["X"]
 
 
 
