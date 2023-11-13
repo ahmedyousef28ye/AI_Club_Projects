@@ -87,10 +87,7 @@ def main():
         page_icon="💊"
         
     )
-    headers ={
-        "authorization":st.secrets["auth_token"],
-        "content-type":"application/json"
-    }
+    
     
     # st.image("C:\Users\ahmed\Desktop\CS\vscode\medicine.png" , width=500)
     
